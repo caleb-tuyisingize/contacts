@@ -14,22 +14,22 @@ function App() {
 
         />
         <Contacts
-          img='../../public/cats/Cat Wallpaper.jpg'
-          name='Mr. Whiskerson'
-          phone='(212) 555-1234'
-          email='mr.whiskaz@catnap.meow'
+          img='../../public/cats/download (1).jpg'
+          name='Fluffykins'
+          phone='(212) 555-2345'
+          email='fluff@me.com'
         />
         <Contacts
-          img='../../public/cats/Cat Wallpaper.jpg'
-          name='Mr. Whiskerson'
-          phone='(212) 555-1234'
-          email='mr.whiskaz@catnap.meow'
+          img='../../public/cats/download.jpg'
+          name='Felix'
+          phone='(212) 555-4567'
+          email='thecat@hotmail.com'
         />
         <Contacts
-          img='../../public/cats/Cat Wallpaper.jpg'
-          name='Mr. Whiskerson'
-          phone='(212) 555-1234'
-          email='mr.whiskaz@catnap.meow'
+          img='../../public/cats/НейроОткрытки для Любимых❤️.jpg'
+          name='Pumpkin'
+          phone='(0800) CAT KING'
+          email='pumpkin@scrimba.com'
         />
       </div>
 
