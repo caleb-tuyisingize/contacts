@@ -4,13 +4,34 @@ function App() {
 
   return (
     <>
-    <div className="flex flex-wrap gap-3">
+      <div className="flex flex-wrap gap-3">
 
-    <Contacts />
-    <Contacts />
-    <Contacts />
-    <Contacts />
-    </div>
+        <Contacts
+          img='../../public/cats/Cat Wallpaper.jpg'
+          name='Mr. Whiskerson'
+          phone='(212) 555-1234'
+          email='mr.whiskaz@catnap.meow'
+
+        />
+        <Contacts
+          img='../../public/cats/Cat Wallpaper.jpg'
+          name='Mr. Whiskerson'
+          phone='(212) 555-1234'
+          email='mr.whiskaz@catnap.meow'
+        />
+        <Contacts
+          img='../../public/cats/Cat Wallpaper.jpg'
+          name='Mr. Whiskerson'
+          phone='(212) 555-1234'
+          email='mr.whiskaz@catnap.meow'
+        />
+        <Contacts
+          img='../../public/cats/Cat Wallpaper.jpg'
+          name='Mr. Whiskerson'
+          phone='(212) 555-1234'
+          email='mr.whiskaz@catnap.meow'
+        />
+      </div>
 
     </>
   )
