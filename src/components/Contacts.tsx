@@ -2,8 +2,8 @@
 export default function Contacts(){
     return(
         <>
-        <div className="ml-12 flex basis-1/3">
-            <article className="shadow-2xl rounded-md p-8 h-80 w-90 pb-20 bg-white">
+        <div className="ml-12">
+            <article className="shadow-2xl basis-1/3 rounded-md p-8 h-80 w-90 pb-20 bg-white">
                 <img src="../../public/cats/Cat Wallpaper.jpg"
                   alt="Photo of Mr. Whiskerson" 
                   className="w-full h-40 align-center rounded-lg object-cover"
